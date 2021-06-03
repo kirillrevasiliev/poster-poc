@@ -1,0 +1,31 @@
+.RadioGroup {
+    display: flex;
+}
+.RadioGroup .imageContainer {
+    margin-right: 20px;
+}
+.RadioGroup label {
+    width: 170px;
+    height: 24px;
+    text-transform: capitalize;
+    display: block;
+    text-align: center;
+    background-color: #d30301;
+    border-radius: 5px;
+    padding: 5px 15px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+}
+.RadioGroup input.radio-button {
+    display: none;
+}
+
+.RadioGroup img {
+    width: 100px;
+    height: auto;
+    margin: 20px 0;
+}

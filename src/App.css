@@ -1,0 +1,22 @@
+.App {
+  background-color: #e8eef7;
+  padding: 20px;
+  height: 100vh;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+  height: 100%;
+  max-width: 1340px;
+}
+
+.flex {
+  display: flex;
+}

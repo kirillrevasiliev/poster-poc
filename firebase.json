@@ -1,0 +1,6 @@
+{
+	"hosting": {
+		"site": "poster-poc",
+		"public": "public"
+	}
+}
