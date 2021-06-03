@@ -1,6 +1,11 @@
 {
-	"hosting": {
-		"site": "poster-poc",
-		"public": "public"
-	}
+  "hosting": {
+    "site": "poster-poc",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
 }
