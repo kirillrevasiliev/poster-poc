@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "site": "poster-poc",
+    "default": "bird-dev"
+  }
+}
